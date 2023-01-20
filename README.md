@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/reconfort_" target="blank"><img src="https://img.shields.io/twitter/follow/reconfort_?logo=twitter&style=for-the-badge" alt="reconfort_" /></a> </p>
 
-- 🔭 I’m currently working on ReactJS **Scenic**
+- 🔭 I’m currently working on KLAB  **Bootcamp**
 
-- 🌱 I’m currently learning Javascript **ReactJS, NodeJs, AngularJs**
+- 🌱 I’m currently learning Javascript **ReactJS, NodeJs & Ruby on Rails **
 
-- 👯 I’m looking to collaborate on ReactJS **Scenic**
+- 👯 I’m looking to collaborate on any **project**
 
 - 🤝 I’m looking for help with Grobal Network **Web development**
 
-- 👨‍💻 All of my projects are available at [Not yet published](Not yet published)
+- 👨‍💻 All of my projects are available at (http://netfort.netlify.app)
 
-- 📝 I regularly write articles on [Not yet Published](Not yet Published)
+- 📝 I regularly write articles on https://netfort.netlify.app/blog.html
 
 - 📫 How to reach me **danny.reco2002@gmail.com**
 
