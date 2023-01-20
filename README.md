@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with Grobal Network **Web development**
 
-- 👨‍💻 All of my projects are available at (http://netfort.netlify.app)
+- 👨‍💻 All of my projects are available at http://netfort.netlify.app
 
 - 📝 I regularly write articles on https://netfort.netlify.app/blog.html
 
