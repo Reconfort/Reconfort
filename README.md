@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/reconfort_" target="blank"><img src="https://img.shields.io/twitter/follow/reconfort_?logo=twitter&style=for-the-badge" alt="reconfort_" /></a> </p>
 
-- 🔭 I’m currently working on KLAB  **Bootcamp**
+- 🔭 I’m currently working as Professional  **Freelancer**
 
-- 🌱 I’m currently learning Javascript **ReactJS, NodeJs & Ruby on Rails **
+- 🌱 I’m currently using **NextJS, Typescript, NodeJs & MERN Stack **
 
-- 👯 I’m looking to collaborate on any **project**
+- 👯 I’m looking to collaborate on any serious **project**
 
-- 🤝 I’m looking for help with Grobal Network **Web development**
+- 🤝 I’m looking for help with Global Network **Web development**
 
 - 👨‍💻 All of my projects are available at http://netfort.netlify.app
 
 - 📝 I regularly write articles on https://netfort.netlify.app/blog.html
 
-- 📫 How to reach me **danny.reco2002@gmail.com**
+- 📫 How to reach me **danny.reco2002@gmail.com** or **+250 780 151 067**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
