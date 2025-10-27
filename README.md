@@ -1,9 +1,3 @@
-<div align="center">
-
-  ![Banner2](https://user-images.githubusercontent.com/75314029/191703608-92276d7d-5147-4705-8647-fbef42657233.jpg)
-  
- </div>
-
 <h1 align="center">Hi 👋, I'm Reconfort Daniel</h1>
 <h3 align="center">A passionate Full-Stack developer from Rwanda</h3>
 
@@ -11,19 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/reconfort_" target="blank"><img src="https://img.shields.io/twitter/follow/reconfort_?logo=twitter&style=for-the-badge" alt="reconfort_" /></a> </p>
 
-- 🔭 I’m currently working as Professional  **Freelancer**
+- 🔭 Over 4+ experience currently working as Professional  **Engineer**
 
 - 🌱 I’m currently using **NextJS, Typescript, NodeJs & MERN Stack **
 
-- 👯 I’m looking to collaborate on any serious **project**
+- 👨‍💻 All of my projects are available at [My Portifolio](https://icondev.netlify.app/)
 
-- 🤝 I’m looking for help with Global Network **Web development**
+- 📫 How to reach me **reconfortdanny@gmail.com**
 
-- 👨‍💻 All of my projects are available at http://netfort.netlify.app
-
-- 📝 I regularly write articles on https://netfort.netlify.app/blog.html
-
-- 📫 How to reach me **danny.reco2002@gmail.com** or **+250 780 151 067**
+- 📫 Explore more on my Linkedin [Reconfort Daniel](https://www.linkedin.com/in/reconfort-daniel/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
