@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portifolio](https://icondev.netlify.app/)
 
-- 📫 How to reach me **reconfortdanny@gmail.com**
+- 📫 How to reach me reconfortdanny@gmail.com
 
 - 📫 Explore more on my Linkedin [Reconfort Daniel](https://www.linkedin.com/in/reconfort-daniel/)
 
