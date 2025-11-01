@@ -7,7 +7,7 @@
 
 - 🔭 Over 4+ experience currently working as Professional  **Engineer**
 
-- 🌱 I’m currently using **NextJS, Typescript, NodeJs & MERN Stack **
+- 🌱 I’m currently using NextJS, Typescript, NodeJs & MERN Stack
 
 - 👨‍💻 All of my projects are available at [My Portifolio](https://icondev.netlify.app/)
 
