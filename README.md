@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070f3,100:00c6ff&height=200&section=header&text=Reconfort%20Daniel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20Kigali%2C%20Rwanda&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0070F3&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+apps;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+MERN;4%2B+years+shipping+production+software;Clean+code.+Great+DX.+Real+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0070F3&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+apps;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+MERN;4%2B+years+shipping+production+software;Clean+code.+UI/UX.+Product+Developer" alt="Typing SVG" />
 
 <br/>
 
